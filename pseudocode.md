@@ -62,6 +62,13 @@
 ## Functions
 
 ```
+FUNCTION replaceFilter
+    * grab filter
+    * rotate filter counter clockwise until removed
+    * throw old filter into woods
+    * Grab new filer
+    * Bring to filter spot and rotate clockwise until snug
+
 FUNCTION removeOld:
     * let dripPanLocation = on ground directly underneath drainPlugLocation
     * IF dripPanLocation = undear drainPlugLocation
